@@ -44,7 +44,7 @@ class Validator {
 			return { valid: false, reason: "no_mx" };
 		}
 
-		// Priority'e göre sırala
+		// Sort records in ascending order of priority
 		mxRecords.sort((a, b) => a.priority - b.priority);
 
 		const results = [];
