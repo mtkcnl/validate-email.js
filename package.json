@@ -1,0 +1,23 @@
+{
+  "name": "validate-email.js",
+  "version": "1.0.0",
+  "description": "Email validator for Node.js applications",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtkcnl/validate-email.js.git"
+  },
+  "keywords": [
+    "email",
+    "email-validator",
+    "validator",
+    "validation",
+    "email-validation"
+  ],
+  "author": "mtkcnl",
+  "license": "GPL-3.0-only",
+  "bugs": {
+    "url": "https://github.com/mtkcnl/validate-email.js/issues"
+  },
+  "homepage": "https://github.com/mtkcnl/validate-email.js#readme"
+}
