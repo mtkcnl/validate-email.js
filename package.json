@@ -1,6 +1,6 @@
 {
   "name": "@mtkcnl/validate-email.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Email validator for Node.js applications",
   "main": "index.js",
   "types": "index.d.ts",
